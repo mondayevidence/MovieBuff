@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\9218c14175a7030d4a4b00eecb8958cc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6a592c35f133d5885bcae910ef715ba0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1750aa1f24d5e003a73ca26abdb2641e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fc16980e088d05d3a4e82df600d3350\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\111756f811a1caf1ec152d0165fa7f93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\3cc4eccc0c3e6fcd78db6f782d4a1cb4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\464a6961a80d483942eaba39c9b15604\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\435bed0629694c2b2b18ed9f312d9813\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\697dfc651b01b6e289c41cb76cc7eb49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\382cbac2a34fdf641a3bd27eecd731e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\a5e6c69fb7ee9078e95b2c2188521b54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\811a9c94e135c321680332478579a66a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\fbc37aa15f1b70213a49197bb105af62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\5d91a5741c61c8491338880585ceea89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2e9c37b1fb6d860032722ff3b34ce6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\e20982592855dbc70282e81c9a207808\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\bc1063bfb8ac03a9876b38f1d18693aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\b2414210a4d6d8f4faa41043dc57ab88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4f5a9f26e7b3b6f6d68b3842ba1a0802\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\657c3a41d8ece5b2c7f76b1f38569a21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7cd2431d82aa40dc4b83e4b64ad33091\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\18a36e83939b6c8cb8f8a00140d92648\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\403f34370448a1e4965cca9642eaf0c4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2b5985d942e371861160197f7baaece\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\aff630d999528ba9be2fca26ef9f5bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c11a985c6b09c574a82aa3a63f545c6e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\01d1196108e2ea8cb5f62fcd9f121563\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\42c6e441c7d91b0e8a0d26898d0ef47e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\810d74da81f94a93292f5f7c04da0e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fdd275dd8c1253a674ab379291daacd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\883167bcfc28097e6cf57b9f9450b36e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\089577fda4006bd339e34fb346534ba8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4c56dcedee4c2bf62ab4213ade097dba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\d9e6baeea2612bfacf410cec02fa66a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1fac95631130c881d3dbfbcd2af30156\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\573433b58efe087548327dd3ba083689\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:3:11-42
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\9218c14175a7030d4a4b00eecb8958cc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\9218c14175a7030d4a4b00eecb8958cc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1750aa1f24d5e003a73ca26abdb2641e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1750aa1f24d5e003a73ca26abdb2641e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\3cc4eccc0c3e6fcd78db6f782d4a1cb4\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\3cc4eccc0c3e6fcd78db6f782d4a1cb4\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\403f34370448a1e4965cca9642eaf0c4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\403f34370448a1e4965cca9642eaf0c4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c11a985c6b09c574a82aa3a63f545c6e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c11a985c6b09c574a82aa3a63f545c6e\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:13:13-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:7:13-48
+activity#com.example.moviebuff.activities.DetailActivity
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:14:19-60
+activity#com.example.moviebuff.activities.HomeActivity
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:16:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\9218c14175a7030d4a4b00eecb8958cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\9218c14175a7030d4a4b00eecb8958cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6a592c35f133d5885bcae910ef715ba0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6a592c35f133d5885bcae910ef715ba0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1750aa1f24d5e003a73ca26abdb2641e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1750aa1f24d5e003a73ca26abdb2641e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fc16980e088d05d3a4e82df600d3350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fc16980e088d05d3a4e82df600d3350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\111756f811a1caf1ec152d0165fa7f93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\111756f811a1caf1ec152d0165fa7f93\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\3cc4eccc0c3e6fcd78db6f782d4a1cb4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\3cc4eccc0c3e6fcd78db6f782d4a1cb4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\464a6961a80d483942eaba39c9b15604\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\464a6961a80d483942eaba39c9b15604\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\435bed0629694c2b2b18ed9f312d9813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\435bed0629694c2b2b18ed9f312d9813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\697dfc651b01b6e289c41cb76cc7eb49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\697dfc651b01b6e289c41cb76cc7eb49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\382cbac2a34fdf641a3bd27eecd731e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\382cbac2a34fdf641a3bd27eecd731e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\a5e6c69fb7ee9078e95b2c2188521b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\a5e6c69fb7ee9078e95b2c2188521b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\811a9c94e135c321680332478579a66a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\811a9c94e135c321680332478579a66a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\fbc37aa15f1b70213a49197bb105af62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\fbc37aa15f1b70213a49197bb105af62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\5d91a5741c61c8491338880585ceea89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\5d91a5741c61c8491338880585ceea89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2e9c37b1fb6d860032722ff3b34ce6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2e9c37b1fb6d860032722ff3b34ce6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\e20982592855dbc70282e81c9a207808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\e20982592855dbc70282e81c9a207808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\bc1063bfb8ac03a9876b38f1d18693aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\bc1063bfb8ac03a9876b38f1d18693aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\b2414210a4d6d8f4faa41043dc57ab88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\b2414210a4d6d8f4faa41043dc57ab88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4f5a9f26e7b3b6f6d68b3842ba1a0802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4f5a9f26e7b3b6f6d68b3842ba1a0802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\657c3a41d8ece5b2c7f76b1f38569a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\657c3a41d8ece5b2c7f76b1f38569a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7cd2431d82aa40dc4b83e4b64ad33091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7cd2431d82aa40dc4b83e4b64ad33091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\18a36e83939b6c8cb8f8a00140d92648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\18a36e83939b6c8cb8f8a00140d92648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\20d7eb9baa9d373f91928bdf682ae046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\403f34370448a1e4965cca9642eaf0c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\403f34370448a1e4965cca9642eaf0c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2b5985d942e371861160197f7baaece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c2b5985d942e371861160197f7baaece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\aff630d999528ba9be2fca26ef9f5bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\aff630d999528ba9be2fca26ef9f5bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c11a985c6b09c574a82aa3a63f545c6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\c11a985c6b09c574a82aa3a63f545c6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\01d1196108e2ea8cb5f62fcd9f121563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\01d1196108e2ea8cb5f62fcd9f121563\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\42c6e441c7d91b0e8a0d26898d0ef47e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\42c6e441c7d91b0e8a0d26898d0ef47e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\810d74da81f94a93292f5f7c04da0e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\810d74da81f94a93292f5f7c04da0e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fdd275dd8c1253a674ab379291daacd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\7fdd275dd8c1253a674ab379291daacd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\883167bcfc28097e6cf57b9f9450b36e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\883167bcfc28097e6cf57b9f9450b36e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\089577fda4006bd339e34fb346534ba8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\089577fda4006bd339e34fb346534ba8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4c56dcedee4c2bf62ab4213ade097dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\4c56dcedee4c2bf62ab4213ade097dba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\d9e6baeea2612bfacf410cec02fa66a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\d9e6baeea2612bfacf410cec02fa66a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1fac95631130c881d3dbfbcd2af30156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\1fac95631130c881d3dbfbcd2af30156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\573433b58efe087548327dd3ba083689\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\573433b58efe087548327dd3ba083689\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\monda\Documents\study\workout\android projects\MovieBuff\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\monda\.gradle\caches\transforms-2\files-2.1\6cef7b8486a5ca8ccf97cd737b05cd12\AndroidManifest.xml:9:13-64
