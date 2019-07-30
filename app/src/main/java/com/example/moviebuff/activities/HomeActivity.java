@@ -39,6 +39,8 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
 
     private static final String TAG = HomeActivity.class.getSimpleName();
 
+    private ArrayList<Movie> moviess;
+
     //ViewPager sliderpager;
     //TabLayout indicator;
     //RecyclerView MoviesRV;
@@ -62,7 +64,7 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
 
         ButterKnife.bind(this);
 
-
+        moviess = new ArrayList<>();
 
         MoviesRV.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         MoviesRV.setAdapter(movieAdapter);
@@ -138,7 +140,11 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
         call.enqueue(new Callback<MovieResponses>() {
             @Override
             public void onResponse(Call<MovieResponses> call, Response<MovieResponses> response) {
+                Log.d(TAG, String.valueOf(response.isSuccessful()));
                 ArrayList<Movie> movies = response.body().getResults();
+
+                moviess = movies;
+
                 SliderPagerAdapter adapter = new SliderPagerAdapter(HomeActivity.this, movies);
                 sliderpager.setAdapter(adapter);
                 Log.d(TAG, "Number of images received: " + movies.size());
@@ -173,7 +179,7 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
 
     }
 
-    class SliderTimer   extends TimerTask{
+    class SliderTimer extends TimerTask{
 
         @Override
         public void run() {
@@ -181,7 +187,7 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
             HomeActivity.this.runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                    if (sliderpager.getCurrentItem()< movies.size()-1){
+                    if (sliderpager.getCurrentItem()< moviess.size()-1){
                         sliderpager.setCurrentItem(sliderpager.getCurrentItem()+1);
                     }
                     else

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\monda\\Documents\\study\\workout\\android projects\\MovieBuff\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+            "outputFile": "/home/john/Documents/Programming/Programming/MovieBuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\monda\\.gradle\\caches\\transforms-2\\files-2.1\\20d7eb9baa9d373f91928bdf682ae046\\res\\values-kk\\values-kk.xml",
+                    "source": "/home/john/.gradle/caches/transforms-2/files-2.1/95c16b85e3290fd7853c6b479b489336/res/values-kk/values-kk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\monda\\.gradle\\caches\\transforms-2\\files-2.1\\6a592c35f133d5885bcae910ef715ba0\\res\\values-kk\\values-kk.xml",
+                    "source": "/home/john/.gradle/caches/transforms-2/files-2.1/c546181e12ab63b1c8708201094e58ed/res/values-kk/values-kk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

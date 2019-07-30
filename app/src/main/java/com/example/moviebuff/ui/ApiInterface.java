@@ -9,7 +9,7 @@ import retrofit2.http.Query;
 
 public interface ApiInterface {
     //insert key here
-    public  static String API_KEY = "insert api key";
+    public  static String API_KEY = "fb8ad138079de59b76906c669b1bea83";
 
 
 
