@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\monda\\Documents\\study\\workout\\android projects\\MovieBuff\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/home/john/Documents/Programming/Programming/MovieBuff/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\monda\\.gradle\\caches\\transforms-2\\files-2.1\\6a592c35f133d5885bcae910ef715ba0\\res\\values-land\\values-land.xml",
+                    "source": "/home/john/.gradle/caches/transforms-2/files-2.1/c546181e12ab63b1c8708201094e58ed/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\monda\\.gradle\\caches\\transforms-2\\files-2.1\\9218c14175a7030d4a4b00eecb8958cc\\res\\values-land\\values-land.xml",
+                    "source": "/home/john/.gradle/caches/transforms-2/files-2.1/8083867c89db14d37ae7fbd58c7d182a/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

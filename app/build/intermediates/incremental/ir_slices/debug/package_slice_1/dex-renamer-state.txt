@@ -1,4 +1,4 @@
-#Sat Jul 27 15:37:49 CEST 2019
-base.0=C\:\\Users\\monda\\Documents\\study\\workout\\android projects\\MovieBuff\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Tue Jul 30 18:46:06 WAT 2019
+base.0=/home/john/Documents/Programming/Programming/MovieBuff/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex
